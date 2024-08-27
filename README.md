@@ -21,11 +21,11 @@
 </div>
 <br />
 <p align="center">
-A self-service engineering platform, <a href="https://meshplay.io">Meshplay</a>, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features, as an extensible platform, Meshplay offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
+A self-service engineering platform, <a href="https://meshplay.khulnasoft.com">Meshplay</a>, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features, as an extensible platform, Meshplay offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
 </p>
 <br />
 
-<a href="https://meshplay.io/community"><img alt="KhulnaSoft Service Mesh Community" src="./img/readme/meshplay-operator-dark.svg" style="margin:10px;" width="165px" align="left" /></a>
+<a href="https://meshplay.khulnasoft.com/community"><img alt="KhulnaSoft Service Mesh Community" src="./img/readme/meshplay-operator-dark.svg" style="margin:10px;" width="165px" align="left" /></a>
 # Meshplay Operator
 Meshplay Operator is the multi-service mesh operator and implementation of MeshSync.
 <div>&nbsp;</div>
@@ -51,12 +51,12 @@ MeshSync (Service Mesh Synchronization), an event-driven, continuous synchroniza
 
 ## Contributing
 
-Please do! We're a warm and welcoming community of open source contributors. Please join. All types of contributions are welcome. Be sure to read the [Contributor Guides](https://docs.meshplay.io/project/contributing) for a tour of resources available to you and how to get started.
+Please do! We're a warm and welcoming community of open source contributors. Please join. All types of contributions are welcome. Be sure to read the [Contributor Guides](https://docs-meshplay.khulnasoft.com/project/contributing) for a tour of resources available to you and how to get started.
 
 ## Join the Meshplay community!
 
 <a name="contributing"></a><a name="community"></a>
-Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://khulnasoft.com/community/handbook">Contributor Journey Map</a> and <a href="https://khulnasoft.com/community/handbook">Community Handbook</a> for a tour of resources available to you and the <a href="https://khulnasoft.com/community/handbook/repository-overview">Repository Overview</a> for a cursory description of repository by technology and programming language. Jump into community <a href="https://slack.meshplay.io">Slack</a> or <a href="http://discuss.meshplay.io">discussion forum</a> to participate.
+Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://khulnasoft.com/community/handbook">Contributor Journey Map</a> and <a href="https://khulnasoft.com/community/handbook">Community Handbook</a> for a tour of resources available to you and the <a href="https://khulnasoft.com/community/handbook/repository-overview">Repository Overview</a> for a cursory description of repository by technology and programming language. Jump into community <a href="https://slack.meshplay.khulnasoft.com">Slack</a> or <a href="http://discuss.meshplay.khulnasoft.com">discussion forum</a> to participate.
 
 <p style="clear:both;">
 <a href ="https://khulnasoft.com/community"><img alt="MeshMates" src=".github/assets/images/readme/khulnasoft-community-sign.png" style="margin-right:36px; margin-bottom:7px;" width="140px" align="left" /></a>
@@ -70,11 +70,11 @@ Find out more on the <a href="https://khulnasoft.com/community#meshmate">KhulnaS
 <br /><br />
 <div style="display: flex; justify-content: center; align-items:center;">
 <div>
-<a href="https://meshplay.io/community"><img alt="KhulnaSoft Cloud Native Community" src="https://docs.meshplay.io/assets/img/readme/community.png" width="140px" style="margin-right:36px; margin-bottom:7px;" width="140px" align="left"/></a>
+<a href="https://meshplay.khulnasoft.com/community"><img alt="KhulnaSoft Cloud Native Community" src="https://docs-meshplay.khulnasoft.com/assets/img/readme/community.png" width="140px" style="margin-right:36px; margin-bottom:7px;" width="140px" align="left"/></a>
 </div>
 <div style="width:60%; padding-left: 16px; padding-right: 16px">
 <p>
-✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshplay.io/calendar">community calendar</a>.<br />
+✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshplay.khulnasoft.com/calendar">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/playlist?list=PL3A-A6hPO2IMPPqVjuzgqNU5xwnFFn3n0">meeting recordings</a>.<br />
 ✔️ <em><strong>Fill-in</strong></em> a <a href="https://khulnasoft.com/newcomers">community member form</a> to gain access to community resources.
 <br />
@@ -100,7 +100,7 @@ Find out more on the <a href="https://khulnasoft.com/community#meshmate">KhulnaS
 
 
 
-<!-- <a href="https://youtu.be/MXQV-i-Hkf8"><img alt="Deploying Linkerd with Meshplay" src="https://docs.meshplay.io/assets/img/readme/deploying-linkerd-with-meshplay.png" width="100%" align="center" /></a> -->
+<!-- <a href="https://youtu.be/MXQV-i-Hkf8"><img alt="Deploying Linkerd with Meshplay" src="https://docs-meshplay.khulnasoft.com/assets/img/readme/deploying-linkerd-with-meshplay.png" width="100%" align="center" /></a> -->
 
 
 ### License
